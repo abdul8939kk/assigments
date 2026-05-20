@@ -1,0 +1,30 @@
+*{
+    background-color: aqua;
+}
+.project{
+    
+    color: rgb(175, 22, 22);
+}
+
+#external{
+    background-color: rgb(73, 175, 141);
+    color: orange;
+}
+h3 {
+    background-color: rgb(170,119, 206);
+    color: bisque;
+}
+
+h4 {
+    background-color: red;
+    color: black;
+}
+h3 {
+    background-color: rgb(150, 149, 150);
+    color: rgb(50, 29, 234);
+}
+h4{
+    background-color: lightgreen;
+    color: chocolate;
+}
+
