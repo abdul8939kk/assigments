@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+ .Parent{
+    background-color: black;
+    color: aquamarine;
+    padding: 100px;
+ }
+
+ .Child{
+    background-color: bisque;
+    color: blue;
+    padding: 30px;
+    margin-bottom: 30px;
+ }
+
+ .Child-one{
+    background-color: skyblue;
+    color: brown;
+    margin-top: 20px;
+ }
+
+ .Child-two{
+    color: maroon;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+}
+
+.Process{
+    background-color: lightskyblue;
+    color: maroon;
+    padding: 20px;
+    text-align: center;
+}
+
+.Model{
+    background-color: pink;
+    color: brown;
+    font-weight: 1000;
+}
+
+
+
