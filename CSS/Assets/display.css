@@ -1,0 +1,25 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Parent{
+    background-color: beige;
+    color: blue;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Child1{
+ background-color:black;
+ color: beige;
+ padding: 20px;
+ display: flex;
+ width: 250px;
+ height: 200px;
+}
