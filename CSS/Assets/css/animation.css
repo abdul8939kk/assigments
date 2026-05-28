@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.html{
+    scroll-behavior: smooth;
+}
+
+.body{
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Parent{
+    background-color:black;
+    color: white;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    transition: 0.5s ease;
+    
+}
+
+.Child-one{
+    background-color:white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 20px;
+    transition: 0.5s ease;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    width: 130px;
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 30px;
+}
+
+button:hover{
+    background-color: beige;
+    color: black;
+}
+
+.Child-one:hover{
+  
+  transform: scale(1.1);
+  transform: rotate(360deg);
+}
